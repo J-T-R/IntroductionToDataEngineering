@@ -2,8 +2,9 @@
   
 A storage location for code associated with my medium ramblings on the topic:  
   
-  - [The Junior Problem](https://jthickpennyryan.medium.com/data-engineering-the-junior-problem-75e4cd74c84)
+  - [The Junior Problem](https://jthickpennyryan.medium.com/data-engineering-the-junior-problem-75e4cd74c84)  
   - [Part 1](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-1-4f61ef8e16dd)  
+  - [Part 2](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-2-1e4ed8f122d0)
 
 ### Things you'll need
 
