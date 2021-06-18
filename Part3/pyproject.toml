@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "part3"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Flask = "^2.0.1"
+Flask-SQLAlchemy = "^2.5.1"
+psycopg2-binary = "^2.8.6"
+confluent-kafka = "^1.7.0"
+
+[tool.poetry.dev-dependencies]
+black = "^21.5b2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+    db:
+        container_name: db
+        image: postgres:11-alpine
+        environment:
+            - POSTGRES_USER=test
+            - POSTGRES_PASSWORD=test
+            - POSTGRES_DB=test
+    api:
+        container_name: api
+        build: 
+            context: .
+            dockerfile: Dockerfile.first_example
+        ports:
+            - "5000:5000"
+        depends_on:
+            - db
