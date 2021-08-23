@@ -7,6 +7,7 @@ A storage location for code associated with my medium ramblings on the topic:
   - [Part 2](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-2-1e4ed8f122d0)
   - [Part 3](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-3-acd428e294cf)
   - [Part 4](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-4-1cc050dccc16)
+  - [Part 5](https://jthickpennyryan.medium.com/introduction-to-data-engineering-part-5-3ee091f1b250)
 
 ### Things you'll need
 
